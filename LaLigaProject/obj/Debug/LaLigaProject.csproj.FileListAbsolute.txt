@@ -1,0 +1,8 @@
+C:\Users\Alejandro\source\repos\LaLigaProject\LaLigaProject\bin\Debug\LaLigaProject.exe.config
+C:\Users\Alejandro\source\repos\LaLigaProject\LaLigaProject\bin\Debug\LaLigaProject.exe
+C:\Users\Alejandro\source\repos\LaLigaProject\LaLigaProject\bin\Debug\LaLigaProject.pdb
+C:\Users\Alejandro\source\repos\LaLigaProject\LaLigaProject\obj\Debug\LaLigaProject.csproj.AssemblyReference.cache
+C:\Users\Alejandro\source\repos\LaLigaProject\LaLigaProject\obj\Debug\LaLigaProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alejandro\source\repos\LaLigaProject\LaLigaProject\obj\Debug\LaLigaProject.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\source\repos\LaLigaProject\LaLigaProject\obj\Debug\LaLigaProject.exe
+C:\Users\Alejandro\source\repos\LaLigaProject\LaLigaProject\obj\Debug\LaLigaProject.pdb
