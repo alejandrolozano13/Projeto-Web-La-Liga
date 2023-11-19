@@ -1,6 +1,6 @@
 
 bin/
-obj/
+obj/Debug
 
 
 *.tmp
@@ -12,3 +12,4 @@ obj/
 *.user
 *.suo
 .vscode/
+.csproj
