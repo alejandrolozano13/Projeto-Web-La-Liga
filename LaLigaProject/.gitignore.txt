@@ -12,4 +12,4 @@ obj
 *.user
 *.suo
 .vscode/
-.csproj
+/.csproj
